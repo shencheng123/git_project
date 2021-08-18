@@ -1,2 +1,5 @@
 #忽略text1文件
-text1.txt
+*.txt
+
+#忽略docs文件夹
+docs/
